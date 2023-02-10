@@ -1,0 +1,1704 @@
+date,timestamp,fileName,fileHashCode,documentHashCode,fragment,userId,testMode,email,answers
+2022-10-11 19:13:46.783000+02:00,0,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:51.731000+02:00,0,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:51.895000+02:00,16111,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+d",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:51.950000+02:00,16150,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+de",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:51.996000+02:00,16170,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:52.347000+02:00,16190,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:52.545000+02:00,16215,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:52.932000+02:00,16265,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:53.158000+02:00,16290,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:53.161000+02:00,16311,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:53.384000+02:00,16313,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f()",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:53.678000+02:00,16341,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:53.749000+02:00,16379,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x,)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:53.992000+02:00,16399,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:54.184000+02:00,16419,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:54.214000+02:00,16457,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y,)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:54.912000+02:00,16477,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:55.079000+02:00,16499,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, n)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:55.185000+02:00,16537,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, n,)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:55.415000+02:00,16557,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, n, )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:55.589000+02:00,16577,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, n,)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:55.808000+02:00,16596,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, n)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:56.019000+02:00,16615,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:56.134000+02:00,16634,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:56.196000+02:00,16672,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m,)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:56.428000+02:00,16692,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:56.778000+02:00,16712,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:56.781000+02:00,16752,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:57.467000+02:00,16754,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:57.690000+02:00,16794,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:57.696000+02:00,16814,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:59.145000+02:00,16836,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:25:59.196000+02:00,16857,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:00.173000+02:00,16895,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    re",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:00.328000+02:00,16915,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:01.122000+02:00,16935,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:01.921000+02:00,16957,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:02.153000+02:00,16995,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    re",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:02.967000+02:00,17015,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    res",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:03.182000+02:00,17037,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    resu",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:03.302000+02:00,17057,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    resul",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:03.562000+02:00,17077,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:03.793000+02:00,17097,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:03.966000+02:00,17117,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result  ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:04.162000+02:00,17137,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:04.532000+02:00,17157,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result  ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:04.776000+02:00,17179,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result  =",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:05.017000+02:00,17199,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result  ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:05.125000+02:00,17219,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:05.242000+02:00,17239,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:05.284000+02:00,17258,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result=",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:05.503000+02:00,17278,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result= ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:05.688000+02:00,17298,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result=",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:06.019000+02:00,17317,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:06.122000+02:00,17339,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:06.215000+02:00,17359,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result =",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:06.337000+02:00,17379,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:06.786000+02:00,17399,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:07.598000+02:00,17423,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.169000+02:00,17448,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    f",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.229000+02:00,17491,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    fo",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.304000+02:00,17511,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.623000+02:00,17545,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.738000+02:00,17567,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.923000+02:00,17624,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:08.958000+02:00,17644,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i i",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:09.088000+02:00,17685,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:09.424000+02:00,17724,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:09.488000+02:00,17746,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:09.492000+02:00,17765,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:09.967000+02:00,17767,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:10.301000+02:00,17811,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in ra",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:10.687000+02:00,17845,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:10.690000+02:00,17867,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:10.926000+02:00,17869,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range()",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:11.540000+02:00,17889,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(1)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:11.587000+02:00,17946,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(10)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:12.482000+02:00,17966,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:12.751000+02:00,18023,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:12.757000+02:00,18043,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+    ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:13.902000+02:00,18065,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:13.978000+02:00,18120,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:14.378000+02:00,18163,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        re",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:14.771000+02:00,18197,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:15.835000+02:00,18249,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:16.138000+02:00,18304,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:16.268000+02:00,18326,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *=",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:16.943000+02:00,18346,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:16.946000+02:00,18398,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:18.015000+02:00,18400,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= ()",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:18.092000+02:00,18458,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (s)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:18.400000+02:00,18496,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sq)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:18.464000+02:00,18516,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqr)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:18.694000+02:00,18536,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:18.696000+02:00,18556,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt()",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:28.892000+02:00,18558,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt())",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:29.131000+02:00,18608,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(1))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:29.343000+02:00,18628,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:29.598000+02:00,18648,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 ))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:29.696000+02:00,18668,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 *))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:29.989000+02:00,18690,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * ))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:30.751000+02:00,18710,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * n))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:30.897000+02:00,18785,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * ))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:32.043000+02:00,18810,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:32.220000+02:00,18891,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:32.310000+02:00,18911,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) -)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:33.223000+02:00,18933,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:33.346000+02:00,18984,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:33.474000+02:00,19009,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0/)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:34.063000+02:00,19029,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0/5)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:34.237000+02:00,19095,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0/)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:34.267000+02:00,19115,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:34.701000+02:00,19135,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0/)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:34.794000+02:00,19197,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:35.377000+02:00,19217,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0%)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:35.681000+02:00,19277,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:35.808000+02:00,19297,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:36.176000+02:00,19317,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:36.512000+02:00,19373,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:36.598000+02:00,19427,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 *)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:37.595000+02:00,19449,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:41.297000+02:00,19508,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:42.475000+02:00,19596,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:42.644000+02:00,19656,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y *)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:42.899000+02:00,19683,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y **)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:43.102000+02:00,19709,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y ** )",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:43.636000+02:00,19729,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y ** m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:44.483000+02:00,19772,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y ** m_)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:46.112000+02:00,19825,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * y ** m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:46.764000+02:00,19875,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * (y ** m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:50.254000+02:00,19946,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * (y ** m))",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:50.631000+02:00,20007,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= (sqrt(18 * m) - 0.5 * (y ** m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:52.395000+02:00,20027,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:54.160000+02:00,20082,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+        ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:54.161000+02:00,20145,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+       ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:54.682000+02:00,20147,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:54.735000+02:00,20205,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:54.989000+02:00,20248,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    re",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:55.618000+02:00,20282,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    result",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:55.769000+02:00,20349,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    resul",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:55.920000+02:00,20369,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    resu",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:56.069000+02:00,20389,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    res",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:56.276000+02:00,20409,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    re",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:56.695000+02:00,20429,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    ret",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:56.702000+02:00,20481,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:57.399000+02:00,20501,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:57.595000+02:00,20563,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:57.667000+02:00,20615,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:57.761000+02:00,20635,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x -",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:58.004000+02:00,20657,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x - ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:58.089000+02:00,20677,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x - r",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:58.562000+02:00,20720,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x - re",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:59.687000+02:00,20754,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x - result",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"
+2022-10-11 19:26:59.692000+02:00,20816,3.ipynb,7660,2136512632,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n) = x - \prod_{n=0}^{100}{(\sqrt{18m} - 0.5*y^m)} $$ 
+The $\prod_{n=0}^{100}$ symbol denotes the product of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    result = 1
+    for i in range(101):
+        result *= sqrt(18 * m) - 0.5 * (y ** m)
+    return x - result
+    ",132,OFF,-1017914840709559411,"[3, 2, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 3, 2, 2, 3, 2, 1, 2, 3]"

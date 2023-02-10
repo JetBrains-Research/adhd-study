@@ -1,0 +1,1181 @@
+date,timestamp,fileName,fileHashCode,documentHashCode,fragment,userId,testMode,email,answers
+2022-09-02 14:20:09.397000+02:00,0,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:42.475000+02:00,0,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:42.501000+02:00,214,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+d",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:42.668000+02:00,224,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+de",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:42.793000+02:00,262,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:43.681000+02:00,312,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:44.132000+02:00,337,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:44.136000+02:00,389,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:47.664000+02:00,391,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f()",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:48.395000+02:00,421,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:48.485000+02:00,461,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x:)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:48.632000+02:00,481,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:48.786000+02:00,501,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: i)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:48.831000+02:00,544,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: in)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:49.030000+02:00,619,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:49.124000+02:00,675,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int,)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:49.871000+02:00,695,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:50.564000+02:00,723,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int, y)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:51.457000+02:00,766,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int, y:)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:51.589000+02:00,791,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int, y)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:51.705000+02:00,810,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:51.864000+02:00,829,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int,)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:51.996000+02:00,848,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: int)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:52.101000+02:00,867,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: in)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:52.218000+02:00,906,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: i)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:52.559000+02:00,944,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x: )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:52.699000+02:00,971,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x:)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:53.257000+02:00,990,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:53.342000+02:00,1011,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x,)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:53.617000+02:00,1031,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:53.911000+02:00,1051,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:54.007000+02:00,1089,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y,)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:55.049000+02:00,1109,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:55.254000+02:00,1131,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:55.357000+02:00,1169,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m,)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:55.527000+02:00,1189,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:58.432000+02:00,1209,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:58.618000+02:00,1249,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:59.040000+02:00,1269,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n): ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:59.314000+02:00,1291,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:20:59.343000+02:00,1310,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:15.786000+02:00,1332,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:15.789000+02:00,1354,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:16.516000+02:00,1356,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ()",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:16.813000+02:00,1378,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:17.108000+02:00,1430,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:17.232000+02:00,1450,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x +)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:18.246000+02:00,1472,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:18.828000+02:00,1494,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:21.343000+02:00,1525,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2y)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:21.550000+02:00,1563,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:21.854000+02:00,1582,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:21.971000+02:00,1602,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 *)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:22.159000+02:00,1624,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:38.492000+02:00,1644,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:38.836000+02:00,1711,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y) ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:38.952000+02:00,1747,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y) *",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:40.028000+02:00,1769,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y) **",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:40.483000+02:00,1811,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y) ** ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:46.518000+02:00,1853,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y) ** m",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:51.859000+02:00,1896,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    (x + 2 * y) ** m)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:54.491000+02:00,1957,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:54.632000+02:00,2009,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:54.709000+02:00,2029,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) /",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:56.814000+02:00,2051,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:57.535000+02:00,2111,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:57.819000+02:00,2168,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:57.937000+02:00,2188,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n *",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:58.822000+02:00,2218,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n **",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:59.318000+02:00,2286,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:21:59.321000+02:00,2341,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:00.260000+02:00,2343,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** ()",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:00.583000+02:00,2404,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:00.861000+02:00,2458,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0.)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:01.069000+02:00,2478,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0.5)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:01.573000+02:00,2498,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0.5 )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:01.895000+02:00,2564,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0.5 *)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:02.091000+02:00,2592,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0.5 * )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.374000+02:00,2612,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.457000+02:00,2700,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    r((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.614000+02:00,2738,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    re((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.695000+02:00,2758,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    ret((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.801000+02:00,2778,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    retu((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.901000+02:00,2798,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    retur((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:07.966000+02:00,2818,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:08.590000+02:00,2838,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return ((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:31.731000+02:00,2900,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:32.275000+02:00,2964,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n))",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:32.463000+02:00,3029,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:32.646000+02:00,3049,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) f",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:32.724000+02:00,3087,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) fo",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:33.006000+02:00,3107,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:33.603000+02:00,3141,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:33.783000+02:00,3205,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:33.945000+02:00,3262,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:34.207000+02:00,3282,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n i",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:34.687000+02:00,3323,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:34.862000+02:00,3362,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in ",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:35.032000+02:00,3382,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in r",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:35.100000+02:00,3425,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in ra",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:35.375000+02:00,3445,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in ran",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:35.445000+02:00,3465,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in rang",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:36.056000+02:00,3485,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:36.058000+02:00,3543,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:36.301000+02:00,3545,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range()",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:36.723000+02:00,3565,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:36.811000+02:00,3908,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0,)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:37.124000+02:00,3928,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:37.435000+02:00,3950,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 0)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:37.523000+02:00,3970,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, )",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:37.652000+02:00,3989,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 1)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:37.803000+02:00,4009,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 10)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:47.780000+02:00,4029,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 100)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:47.867000+02:00,4347,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 10)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:22:52.416000+02:00,4367,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:06.559000+02:00,4688,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)]",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:07.386000+02:00,5003,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)].",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:07.495000+02:00,5043,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)].s",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:07.698000+02:00,5063,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)].su",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:07.940000+02:00,5083,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)].sum",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:07.942000+02:00,5103,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)].sum(",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"
+2022-09-02 14:23:35.210000+02:00,5105,1.ipynb,148324,802414171,"#%% md
+Please transform the following formula into a Pythonic function f(x,y,m.n). 
+Note that there is no need or possibility to run the code. We won’t check if the code works, we only need to see your way of thinking:
+
+$$f(x,y,m,n)= \sum_{n=0}^{100} \dfrac{(x  + 2 y)^m}{n^{0.5n}} $$ 
+The $\sum_{n=0}^{100}$ symbol denotes the sum of what is written in brackets with substituted values of n from 0 to 100. 
+When the answer is ready to be submitted, please go to the upper toolbar and press “Next Task” which goes right after “Help”. If the bar is not visible at the moment, just move your cursor to the top of the screen.
+#%%
+def f(x, y, m, n):
+    return [((x + 2 * y) ** m) / n ** (0.5 * n)) for n in range(0, 101)].sum()",62,OFF,-4045705109081137224,"[4, 4, 4, 4, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 4, 3, 4, 1, 4, 1]"

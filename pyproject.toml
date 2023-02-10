@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "adhd-analysis"
+version = "0.1.0"
+description = "tasktracker's data processing"
+authors = ["Vseslav Kasatskii <71323710+samorojy@users.noreply.github.com>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.2"
+pyarrow = "^11.0.0"
+pingouin = "^0.5.3"
+natsort = "^8.2.0"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
