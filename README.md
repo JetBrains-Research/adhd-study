@@ -1,3 +1,7 @@
+# Status: Archived 
+
+No longer maintained 
+
 # The Effect of Perceptual Load on Performance within IDE in People with ADHD Symptoms
 
 This repository contains data analysis for the experiment we conducted for the research on how the
